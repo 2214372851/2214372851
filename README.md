@@ -57,11 +57,9 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/2214372851"><img src="https://img.shields.io/badge/GitHub-2214372851-blue?logo=github" /></a>
-<a href="https://gitee.com/Xiaokang2022"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" /></a>
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" /></a>
-<a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
+<a href="https://gitee.com/yun2hai"><img src="https://img.shields.io/badge/Gitee-yun2hai-blue?logo=gitee" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=Xiaokang2022" />
+<img src="https://komarev.com/ghpvc/?username=2214372851" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
